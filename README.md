@@ -1,7 +1,5 @@
 # obdi-vagrant
-<<<<<<< Updated upstream
-A vagranfile for installing and running Obdi ( https://github.com/mclarkson/obdi ) in a sandbox environment
-=======
+
 A vagranfile for installing and running Obdi ( https://github.com/mclarkson/obdi ) in a sanbox environment
 
 Use:
@@ -27,4 +25,4 @@ use admin/admin
 7- go to https://localhost:4443/manager/run
 
 login using the credentials from step 6
->>>>>>> Stashed changes
+
