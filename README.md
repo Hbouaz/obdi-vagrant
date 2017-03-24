@@ -1,6 +1,6 @@
 # obdi-vagrant
 
-A vagranfile for installing and running Obdi ( https://github.com/mclarkson/obdi ) in a sandbox environment
+Running Obdi ( https://github.com/mclarkson/obdi ) in a sandbox
 
 Use:
 
